@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '25412'
     url: http://www.gutenberg.org/2009/agents/25412
     wikipedia: https://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 73385-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Evelyn E.
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25680
     wikipedia: https://en.wikipedia.org/wiki/Evelyn_E._Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73385#Woman-s-touch
 gutenberg_issued: '2024-04-12'
 gutenberg_type: Text
 identifiers:
